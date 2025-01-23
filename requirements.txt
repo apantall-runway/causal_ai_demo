@@ -1,0 +1,8 @@
+pandas>=1.3.0
+numpy>=1.21.0
+dowhy>=0.8
+scikit-learn>=0.24.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+networkx>=2.6.0  # Required by dowhy for graph visualization
+econml>=0.14.1
